@@ -1,0 +1,7 @@
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\bin\Debug\EncapsulationProperty.exe.config
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\bin\Debug\EncapsulationProperty.exe
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\bin\Debug\EncapsulationProperty.pdb
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\obj\Debug\EncapsulationProperty.csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\obj\Debug\EncapsulationProperty.csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\obj\Debug\EncapsulationProperty.exe
+C:\Users\HALUK\source\repos\C#OOP\EEncapsulation\EncapsulationProperty\obj\Debug\EncapsulationProperty.pdb
