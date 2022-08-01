@@ -1,0 +1,9 @@
+C:\Users\halukcan.kasim\source\repos\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\Users\halukcan.kasim\source\repos\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\Users\halukcan.kasim\source\repos\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\Users\halukcan.kasim\source\repos\Send\obj\Debug\netcoreapp3.1\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\Users\halukcan.kasim\source\repos\Send\obj\Debug\netcoreapp3.1\Send.pdb
