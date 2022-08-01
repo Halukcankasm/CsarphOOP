@@ -1,9 +1,0 @@
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\bin\Debug\netcoreapp3.1\ComplexNum.deps.json
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\bin\Debug\netcoreapp3.1\ComplexNum.dll
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\bin\Debug\netcoreapp3.1\ComplexNum.pdb
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\obj\Debug\netcoreapp3.1\ComplexNum.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\obj\Debug\netcoreapp3.1\ComplexNum.AssemblyInfoInputs.cache
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\obj\Debug\netcoreapp3.1\ComplexNum.AssemblyInfo.cs
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\obj\Debug\netcoreapp3.1\ComplexNum.csproj.CoreCompileInputs.cache
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\obj\Debug\netcoreapp3.1\ComplexNum.dll
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNum\obj\Debug\netcoreapp3.1\ComplexNum.pdb
