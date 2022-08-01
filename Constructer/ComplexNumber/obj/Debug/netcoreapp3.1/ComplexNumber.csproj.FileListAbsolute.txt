@@ -1,5 +1,0 @@
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNumber\obj\Debug\netcoreapp3.1\ComplexNumber.csproj.AssemblyReference.cache
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNumber\obj\Debug\netcoreapp3.1\ComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNumber\obj\Debug\netcoreapp3.1\ComplexNumber.AssemblyInfoInputs.cache
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNumber\obj\Debug\netcoreapp3.1\ComplexNumber.AssemblyInfo.cs
-C:\Users\halukcan.kasim\source\repos\Constructer\ComplexNumber\obj\Debug\netcoreapp3.1\ComplexNumber.csproj.CoreCompileInputs.cache
