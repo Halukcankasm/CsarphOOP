@@ -1,0 +1,17 @@
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\Complex.App.exe
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\Complex.App.deps.json
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\Complex.App.runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\Complex.App.runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\Complex.App.dll
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\Complex.App.pdb
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\ComplexNum.dll
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\bin\Debug\netcoreapp3.1\ComplexNum.pdb
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.csproj.CopyComplete
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.dll
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.pdb
+C:\Users\halukcan.kasim\source\repos\Constructer\Complex.App\obj\Debug\netcoreapp3.1\Complex.App.genruntimeconfig.cache
