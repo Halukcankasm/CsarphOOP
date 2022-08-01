@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Complex.App/1.0.0": {
+        "dependencies": {
+          "ComplexNum": "1.0.0"
+        },
+        "runtime": {
+          "Complex.App.dll": {}
+        }
+      },
+      "ComplexNum/1.0.0": {
+        "runtime": {
+          "ComplexNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Complex.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComplexNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
