@@ -1,0 +1,14 @@
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\bin\Debug\netcoreapp3.1\CSarph-Array.exe
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\bin\Debug\netcoreapp3.1\CSarph-Array.deps.json
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\bin\Debug\netcoreapp3.1\CSarph-Array.runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\bin\Debug\netcoreapp3.1\CSarph-Array.runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\bin\Debug\netcoreapp3.1\CSarph-Array.dll
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\bin\Debug\netcoreapp3.1\CSarph-Array.pdb
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.dll
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.pdb
+C:\Users\halukcan.kasim\source\repos\Array\CSarph-Array\obj\Debug\netcoreapp3.1\CSarph-Array.genruntimeconfig.cache
