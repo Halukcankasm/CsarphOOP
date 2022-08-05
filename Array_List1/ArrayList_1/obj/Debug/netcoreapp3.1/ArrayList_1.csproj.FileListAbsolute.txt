@@ -1,0 +1,17 @@
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\ArrayList_1.exe
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\ArrayList_1.deps.json
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\ArrayList_1.runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\ArrayList_1.runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\ArrayList_1.dll
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\ArrayList_1.pdb
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.dll
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.pdb
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.genruntimeconfig.cache
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\CreateArrayList.dll
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\bin\Debug\netcoreapp3.1\CreateArrayList.pdb
+C:\Users\halukcan.kasim\source\repos\CSD\Array_List1\ArrayList_1\obj\Debug\netcoreapp3.1\ArrayList_1.csproj.CopyComplete

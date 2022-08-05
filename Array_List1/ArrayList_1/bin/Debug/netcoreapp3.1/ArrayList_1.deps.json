@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArrayList_1/1.0.0": {
+        "dependencies": {
+          "CreateArrayList": "1.0.0"
+        },
+        "runtime": {
+          "ArrayList_1.dll": {}
+        }
+      },
+      "CreateArrayList/1.0.0": {
+        "runtime": {
+          "CreateArrayList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayList_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreateArrayList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
