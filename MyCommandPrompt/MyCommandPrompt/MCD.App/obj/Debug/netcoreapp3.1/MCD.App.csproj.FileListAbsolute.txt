@@ -1,0 +1,17 @@
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.App.exe
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.App.deps.json
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.App.runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.App.runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.App.dll
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.App.pdb
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.CommandPrompt.dll
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\bin\Debug\netcoreapp3.1\MCD.CommandPrompt.pdb
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.csproj.CopyComplete
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.dll
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.pdb
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.App\obj\Debug\netcoreapp3.1\MCD.App.genruntimeconfig.cache

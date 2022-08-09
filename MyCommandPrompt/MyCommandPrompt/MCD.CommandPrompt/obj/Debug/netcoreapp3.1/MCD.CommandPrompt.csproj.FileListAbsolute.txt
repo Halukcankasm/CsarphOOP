@@ -1,0 +1,10 @@
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\bin\Debug\netcoreapp3.1\MCD.CommandPrompt.deps.json
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\bin\Debug\netcoreapp3.1\MCD.CommandPrompt.dll
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\bin\Debug\netcoreapp3.1\MCD.CommandPrompt.pdb
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.dll
+C:\Users\halukcan.kasim\source\repos\MyCommandPrompt\MyCommandPrompt\MCD.CommandPrompt\obj\Debug\netcoreapp3.1\MCD.CommandPrompt.pdb

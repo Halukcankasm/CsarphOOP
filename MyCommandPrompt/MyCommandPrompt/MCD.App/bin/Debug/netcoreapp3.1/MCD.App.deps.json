@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MCD.App/1.0.0": {
+        "dependencies": {
+          "MCD.CommandPrompt": "1.0.0"
+        },
+        "runtime": {
+          "MCD.App.dll": {}
+        }
+      },
+      "MCD.CommandPrompt/1.0.0": {
+        "runtime": {
+          "MCD.CommandPrompt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCD.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MCD.CommandPrompt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
