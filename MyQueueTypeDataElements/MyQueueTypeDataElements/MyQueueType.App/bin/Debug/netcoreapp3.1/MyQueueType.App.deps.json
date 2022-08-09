@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyQueueType.App/1.0.0": {
+        "dependencies": {
+          "MyQueueType": "1.0.0"
+        },
+        "runtime": {
+          "MyQueueType.App.dll": {}
+        }
+      },
+      "MyQueueType/1.0.0": {
+        "runtime": {
+          "MyQueueType.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyQueueType.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyQueueType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

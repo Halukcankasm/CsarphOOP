@@ -1,0 +1,9 @@
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\obj\Debug\netcoreapp3.1\MyQueueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\obj\Debug\netcoreapp3.1\MyQueueType.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\obj\Debug\netcoreapp3.1\MyQueueType.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\obj\Debug\netcoreapp3.1\MyQueueType.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\bin\Debug\netcoreapp3.1\MyQueueType.deps.json
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\bin\Debug\netcoreapp3.1\MyQueueType.dll
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\bin\Debug\netcoreapp3.1\MyQueueType.pdb
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\obj\Debug\netcoreapp3.1\MyQueueType.dll
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueue\obj\Debug\netcoreapp3.1\MyQueueType.pdb

@@ -1,0 +1,17 @@
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.App.exe
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.App.deps.json
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.App.runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.App.runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.App.dll
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.App.pdb
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.dll
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\bin\Debug\netcoreapp3.1\MyQueueType.pdb
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.csproj.CopyComplete
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.dll
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.pdb
+C:\Users\halukcan.kasim\source\repos\MyQueueTypeDataElements\MyQueueTypeDataElements\MyQueueType.App\obj\Debug\netcoreapp3.1\MyQueueType.App.genruntimeconfig.cache
