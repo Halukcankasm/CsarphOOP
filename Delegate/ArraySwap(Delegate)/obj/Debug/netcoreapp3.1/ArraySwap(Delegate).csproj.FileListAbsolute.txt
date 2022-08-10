@@ -1,0 +1,14 @@
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\bin\Debug\netcoreapp3.1\ArraySwap(Delegate).exe
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\bin\Debug\netcoreapp3.1\ArraySwap(Delegate).deps.json
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\bin\Debug\netcoreapp3.1\ArraySwap(Delegate).runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\bin\Debug\netcoreapp3.1\ArraySwap(Delegate).runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\bin\Debug\netcoreapp3.1\ArraySwap(Delegate).dll
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\bin\Debug\netcoreapp3.1\ArraySwap(Delegate).pdb
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).dll
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).pdb
+C:\Users\halukcan.kasim\source\repos\Delegate\ArraySwap(Delegate)\obj\Debug\netcoreapp3.1\ArraySwap(Delegate).genruntimeconfig.cache
