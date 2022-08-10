@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegare_1", "Delegare_1.csproj", "{AAC95C46-A5E3-48EA-80C6-938F2534C9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC95C46-A5E3-48EA-80C6-938F2534C9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC95C46-A5E3-48EA-80C6-938F2534C9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC95C46-A5E3-48EA-80C6-938F2534C9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC95C46-A5E3-48EA-80C6-938F2534C9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04409B0-94E8-462B-8B35-66204D349135}
+	EndGlobalSection
+EndGlobal

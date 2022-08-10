@@ -1,0 +1,14 @@
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\bin\Debug\netcoreapp3.1\Delegare_1.exe
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\bin\Debug\netcoreapp3.1\Delegare_1.deps.json
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\bin\Debug\netcoreapp3.1\Delegare_1.runtimeconfig.json
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\bin\Debug\netcoreapp3.1\Delegare_1.runtimeconfig.dev.json
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\bin\Debug\netcoreapp3.1\Delegare_1.dll
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\bin\Debug\netcoreapp3.1\Delegare_1.pdb
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.csproj.AssemblyReference.cache
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.AssemblyInfoInputs.cache
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.AssemblyInfo.cs
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.csproj.CoreCompileInputs.cache
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.dll
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.pdb
+C:\Users\halukcan.kasim\source\repos\Delegate\Delegare_1\obj\Debug\netcoreapp3.1\Delegare_1.genruntimeconfig.cache
