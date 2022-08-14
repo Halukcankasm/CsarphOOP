@@ -1,0 +1,14 @@
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\bin\Debug\netcoreapp3.1\SingletonPatern.exe
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\bin\Debug\netcoreapp3.1\SingletonPatern.deps.json
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\bin\Debug\netcoreapp3.1\SingletonPatern.runtimeconfig.json
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\bin\Debug\netcoreapp3.1\SingletonPatern.runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\bin\Debug\netcoreapp3.1\SingletonPatern.dll
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\bin\Debug\netcoreapp3.1\SingletonPatern.pdb
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.AssemblyInfo.cs
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.dll
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.pdb
+C:\Users\HALUK\source\repos\C#OOP\SingletonPatern\SingletonPatern\obj\Debug\netcoreapp3.1\SingletonPatern.genruntimeconfig.cache
