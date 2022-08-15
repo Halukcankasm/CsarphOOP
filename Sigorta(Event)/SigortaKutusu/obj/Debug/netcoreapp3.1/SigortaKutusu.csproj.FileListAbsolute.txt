@@ -1,0 +1,14 @@
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\bin\Debug\netcoreapp3.1\SigortaKutusu.exe
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\bin\Debug\netcoreapp3.1\SigortaKutusu.deps.json
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\bin\Debug\netcoreapp3.1\SigortaKutusu.runtimeconfig.json
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\bin\Debug\netcoreapp3.1\SigortaKutusu.runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\bin\Debug\netcoreapp3.1\SigortaKutusu.dll
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\bin\Debug\netcoreapp3.1\SigortaKutusu.pdb
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.AssemblyInfo.cs
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.dll
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.pdb
+C:\Users\HALUK\source\repos\C#OOP\Event\Sigorta(Event)\SigortaKutusu\obj\Debug\netcoreapp3.1\SigortaKutusu.genruntimeconfig.cache
