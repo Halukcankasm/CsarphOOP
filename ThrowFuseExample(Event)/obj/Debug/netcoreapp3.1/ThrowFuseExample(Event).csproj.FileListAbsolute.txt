@@ -1,0 +1,14 @@
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\bin\Debug\netcoreapp3.1\ThrowFuseExample(Event).exe
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\bin\Debug\netcoreapp3.1\ThrowFuseExample(Event).deps.json
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\bin\Debug\netcoreapp3.1\ThrowFuseExample(Event).runtimeconfig.json
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\bin\Debug\netcoreapp3.1\ThrowFuseExample(Event).runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\bin\Debug\netcoreapp3.1\ThrowFuseExample(Event).dll
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\bin\Debug\netcoreapp3.1\ThrowFuseExample(Event).pdb
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).AssemblyInfo.cs
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).dll
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).pdb
+C:\Users\HALUK\source\repos\ThrowFuseExample(Event)\obj\Debug\netcoreapp3.1\ThrowFuseExample(Event).genruntimeconfig.cache
