@@ -1,0 +1,14 @@
+C:\Users\HALUK\source\repos\SpeedCar(Event)\bin\Debug\netcoreapp3.1\SpeedCar(Event).exe
+C:\Users\HALUK\source\repos\SpeedCar(Event)\bin\Debug\netcoreapp3.1\SpeedCar(Event).deps.json
+C:\Users\HALUK\source\repos\SpeedCar(Event)\bin\Debug\netcoreapp3.1\SpeedCar(Event).runtimeconfig.json
+C:\Users\HALUK\source\repos\SpeedCar(Event)\bin\Debug\netcoreapp3.1\SpeedCar(Event).runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\SpeedCar(Event)\bin\Debug\netcoreapp3.1\SpeedCar(Event).dll
+C:\Users\HALUK\source\repos\SpeedCar(Event)\bin\Debug\netcoreapp3.1\SpeedCar(Event).pdb
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).AssemblyInfo.cs
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).dll
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).pdb
+C:\Users\HALUK\source\repos\SpeedCar(Event)\obj\Debug\netcoreapp3.1\SpeedCar(Event).genruntimeconfig.cache
