@@ -1,0 +1,7 @@
+C:\Users\HALUK\source\repos\Calculater\bin\Debug\Calculater.exe.config
+C:\Users\HALUK\source\repos\Calculater\bin\Debug\Calculater.exe
+C:\Users\HALUK\source\repos\Calculater\bin\Debug\Calculater.pdb
+C:\Users\HALUK\source\repos\Calculater\obj\Debug\Calculater.csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\Calculater\obj\Debug\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\Calculater\obj\Debug\Calculater.exe
+C:\Users\HALUK\source\repos\Calculater\obj\Debug\Calculater.pdb
