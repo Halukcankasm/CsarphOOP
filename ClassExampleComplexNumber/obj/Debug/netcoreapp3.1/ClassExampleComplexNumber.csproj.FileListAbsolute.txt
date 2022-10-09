@@ -1,0 +1,14 @@
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\bin\Debug\netcoreapp3.1\ClassExampleComplexNumber.exe
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\bin\Debug\netcoreapp3.1\ClassExampleComplexNumber.deps.json
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\bin\Debug\netcoreapp3.1\ClassExampleComplexNumber.runtimeconfig.json
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\bin\Debug\netcoreapp3.1\ClassExampleComplexNumber.runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\bin\Debug\netcoreapp3.1\ClassExampleComplexNumber.dll
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\bin\Debug\netcoreapp3.1\ClassExampleComplexNumber.pdb
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.AssemblyInfo.cs
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.dll
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.pdb
+C:\Users\HALUK\source\repos\ClassExampleComplexNumber\obj\Debug\netcoreapp3.1\ClassExampleComplexNumber.genruntimeconfig.cache
